@@ -1,3 +1,3 @@
 # mywebsite
 
-This is a personal website of Peter Peng.
+This is my first attempt to make my personal website using bootstrap.
